@@ -246,7 +246,7 @@ If you get stuck at some point, or think that this document needs further detail
 
 ### Compatibility
 
-This repository is compatible with Node.js 4 and higher, excluding any alpha or beta versions.
+This repository is compatible with Node.js 4 and higher, excluding any alpha or beta versions..
 
 ### License
 
